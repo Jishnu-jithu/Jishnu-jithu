@@ -15,7 +15,7 @@ I'm a 19-year-old VFX student from India, passionate about Blender addon develop
 - [Text Editor Addon Collection](https://github.com/Jishnu-jithu/text-editor-addons)
   - My recent project: A collection of Python scripts for the Blender text editor, aimed at improving functionality.
  
-## 🛒 BlenderMarket
+## 🛒 Add-ons
 
 All my addons are available on [BlenderMarket](https://www.blendermarket.com/creators/jishnujithu). Check out my profile for the latest updates and premium addons.
 
